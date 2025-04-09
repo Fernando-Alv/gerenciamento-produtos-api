@@ -1,4 +1,4 @@
-# 🚀 API RESTful de Gerenciamento de Produtos
+# 🚀 API REST de Gerenciamento de Produtos
 
 ## 📝 Descrição
 API RESTful desenvolvida em Java 21 para gerenciamento de produtos, com operações CRUD. A aplicação utiliza Spring Boot, Spring Data JPA, Hibernate e MySQL.
